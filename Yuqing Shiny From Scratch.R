@@ -5,11 +5,15 @@ runExample("03_reactivity") # a reactive expression
 runExample("04_mpg")        # global variables
 runExample("05_sliders")    # slider bars
 
-### &&& This looks cool
+### This looks cool
 runExample("06_tabsets")    # tabbed panels
 
+### Applicable
 runExample("07_widgets")    # help text and submit buttons
 runExample("08_html")       # Shiny app built from HTML
+
+###$$$ Looks wonderful
 runExample("09_upload")     # file upload wizard
 runExample("10_download")   # file download wizard
+
 runExample("11_timer")      # an automated timer
